@@ -1,16 +1,16 @@
 # TDE(Transparent data encryption)?
 
-- Applicable Versions
-  ✅ SQL Server All editions since 2019  
-  ✅ Azure SQL Databases
-  ✅ Azure SQL Managed Instance
-  ✅ Azure Synapse Analytics
+- Applicable Versions \
+  ✅ SQL Server All editions since 2019  \
+  ✅ Azure SQL Databases \
+  ✅ Azure SQL Managed Instance \
+  ✅ Azure Synapse Analytics \
 
 - What is it?
 - How TDE is securing the database?
 - How to implement it?
 
-- Required knowledge
+- Required knowledge \
   ✅ Certification
 
 ## What is it?
