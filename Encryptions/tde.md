@@ -4,7 +4,7 @@
   ✅ SQL Server All editions since 2019  \
   ✅ Azure SQL Databases \
   ✅ Azure SQL Managed Instance \
-  ✅ Azure Synapse Analytics \
+  ✅ Azure Synapse Analytics
 
 - What is it?
 - How TDE is securing the database?
