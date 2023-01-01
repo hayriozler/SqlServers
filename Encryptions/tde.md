@@ -2,13 +2,18 @@
 
 - What is it?
 - Why do we need it?
-- How to implement?
+- How TDE is securing the database?
+- How to implement it?
 - Applicable Versions
-  - [x] SQL Server All editions
+  - [x] SQL Server All editions since 2019
   - [x] Azure SQL Databases
   - [x] Azure SQL Managed Instance
-  - [x] Azure Snapse Analytics
+  - [x] Azure Synapse Analytics
 - Required knowledge
   - Certification
 
-TDE was introduced in SQL server 2008. The time that was introduced only available for Enterprise versions, since 2019 The Tde has been available for Standard edition as well.
+## What is it?
+
+  TDE is a technology to secure your database at rest(Rest means that I/O subsystem or drives or backup tapes).
+TDE was introduced in SQL server 2008. It was only applicable for Enterprise versions when it was introduced. Since 2019 The TDE has been available for the Standard edition as well.
+
