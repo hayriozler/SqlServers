@@ -5,10 +5,10 @@
 - How TDE is securing the database?
 - How to implement it?
 - Applicable Versions
-  - [x] SQL Server All editions since 2019
-  - [x] Azure SQL Databases
-  - [x] Azure SQL Managed Instance
-  - [x] Azure Synapse Analytics
+  - [✅] SQL Server All editions since 2019
+  - [✅] Azure SQL Databases
+  - [✅] Azure SQL Managed Instance
+  - [✅] Azure Synapse Analytics
 - Required knowledge
   - Certification
 
