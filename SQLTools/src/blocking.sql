@@ -1,1 +1,1 @@
---To able to find blocking query
+-- You can use below command to find blocking queries
