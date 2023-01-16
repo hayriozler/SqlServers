@@ -1,1 +1,1 @@
-# You can find SQL server scurity features and implementation of them
+# You can find SQL server security features and their implementation

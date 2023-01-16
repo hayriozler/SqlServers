@@ -1,1 +1,1 @@
-# You will see Ef core best practise and implementation of them
+# You will see Ef's core best practices and implementation of them
