@@ -1,0 +1,1 @@
+# You will see Ef core best practise and implementation of them
